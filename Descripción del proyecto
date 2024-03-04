@@ -1,0 +1,4 @@
+El siguiente proyecto se elaboro por medio de la herramienta de Google Colab, con la ayuda de consultas realizas con SQL y después replicadas por medio de SAS 
+en el cual se presentan bases de datos de listados de personas que adquirienron un servicio de Airbnb en 2016, por medio de uniones de tablas y graficos realizados 
+podemos obtener un análisis de la realción entre el precio del lugar a rentar y la calificación que le dan los usuarios, además de un grafico de cuales son los meses
+del año en donde la empresa tiene mayor demanda por parte de los usuarios.
